@@ -82,7 +82,3 @@ src/
 | Variable | Description |
 |---|---|
 | `VITE_GEMINI_KEY` | Your Google Gemini API Key |
-
-## 📄 License
-
-MIT License © 2026
