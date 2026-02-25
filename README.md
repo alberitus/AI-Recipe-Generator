@@ -75,7 +75,7 @@ src/
 
 ## 📸 Preview
 
-![AI Recipe Generator](screenshots/image.png)
+![AI Recipe Generator](screenshot/image.png)
 
 ## 🔒 Environment Variables
 
